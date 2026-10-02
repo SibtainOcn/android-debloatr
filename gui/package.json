@@ -1,0 +1,21 @@
+{
+  "name": "debloat-gui",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Local GUI for scripts/scanner.ps1 and scripts/remover.ps1",
+  "scripts": {
+    "dev": "vite --open",
+    "serve": "vite",
+    "build": "vite build",
+    "start": "vite build && vite preview --open"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0"
+  }
+}
