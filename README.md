@@ -1,7 +1,31 @@
+
+<div align="center">
+
 # Android Debloat Toolkit
 
-A personal, no-root toolkit to find and remove bloatware on **any Android phone or tablet (Android 9 to 16)**:
-OEM junk, carrier apps, preloaded third-party apps, Google apps, or anything else you pick.
+![Android](https://img.shields.io/badge/-ANDROID-0a0a0a?style=for-the-badge&logo=android&logoColor=3DDC84)
+![PowerShell](https://img.shields.io/badge/-POWERSHELL-165de0?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/-REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+![version](https://img.shields.io/badge/version-1.0.0-00FFFF?style=flat)
+![platform](https://img.shields.io/badge/platform-Android-6aa80f?style=flat)
+![API](https://img.shields.io/badge/API-28%2B-44cc11?style=flat)
+![root](https://img.shields.io/badge/root-not%20required-2ea44f?style=flat)
+![license](https://img.shields.io/badge/license-MIT-blue?style=flat)
+
+</div>
+
+
+| Supported | |
+|---|---|
+| Root | **not needed** (adb or Shizuku only) |
+| Android versions | **Android 9 (API 28) to Android 16 (API 36)** |
+| Devices | phones and tablets |
+| Brands | Samsung, Xiaomi / Redmi / POCO, OnePlus, OPPO, Realme, vivo / iQOO, Motorola, Lenovo, Google Pixel, Nothing, Huawei / Honor, ASUS, Sony, Nokia, Infinix / Tecno, and any other Android brand |
 
 It never blocks you. Every package on the device is listed and labelled with a risk level, and you decide what goes.
 
